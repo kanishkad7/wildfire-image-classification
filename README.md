@@ -1,4 +1,3 @@
-# wildfire-image-classification
 # Wildfire Image Classification Using CNN and Transfer Learning
 
 ## Project Overview
